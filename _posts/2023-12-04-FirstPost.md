@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test
-description: Yash's first test
+title: My first post
+description: Yash's first post
 type: plans
 courses: { compsci: {week: 0} }
 ---

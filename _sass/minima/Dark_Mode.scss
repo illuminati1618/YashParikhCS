@@ -76,11 +76,9 @@ table td{
     color: $dark-grey !important;
     filter: brightness(80%);
 }
-
-canvas {
-    filter: invert(100%);
-}
-
+//canvas {
+//    filter: invert(100%);
+//}
 .post-list > li > div {
     box-shadow: none !important;
     background-color: $overlay;

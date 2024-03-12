@@ -1,9 +1,10 @@
 ---
 toc: true
+hide: true
 comments: false
-layout: tak
-title: tank test drawing
-description: A pretty advanced use of JS, HTML, CSS, and Spritesheets to create a single-player game. 
+layout: NONE
+title: Tank drawing mode
+description: Drawing mode for tank
 ---
 
 <style>

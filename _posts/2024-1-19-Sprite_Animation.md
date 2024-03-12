@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprite animation 1
+title: Sprite animation
 description: A hand-drawn sprite animation of glass
 type: hacks
 courses: {'compsci': {'week': 7}}

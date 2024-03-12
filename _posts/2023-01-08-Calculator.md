@@ -2,8 +2,8 @@
 toc: true
 comments: false
 layout: post
-title: Calculator MD
-description: Modifying the calculator from APCSA repository.
+title: JS Calculator
+description: Personally modifying the calculator from APCSA repository.
 type: hacks
 courses: { compsci: {week: 4} }
 ---

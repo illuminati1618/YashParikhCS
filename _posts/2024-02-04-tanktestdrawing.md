@@ -1,10 +1,6 @@
 ---
-toc: true
+layout: none
 hide: true
-comments: false
-layout: NONE
-title: Tank drawing mode
-description: Drawing mode for tank
 ---
 
 <style>
